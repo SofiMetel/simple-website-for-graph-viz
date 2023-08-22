@@ -104,8 +104,8 @@ body {
   max-width:800px;
   margin:25px auto;
 }
-header, #content, footer { 
-  background: rgb(46 175 164); 
+header, #content, footer {
+  background: rgb(0 120 174);
   padding:25px;
   color:#FFFFFF; 
 }
